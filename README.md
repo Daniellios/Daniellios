@@ -2,7 +2,7 @@
 - 👀 I’m interested in Frontend developement
 - 🌱 I’m currently learning React and NextJs
 - 💞️ I’m looking to collaborate or work on any kind of project that involves using any of these (JS, React, Redux, NextJs, PixiJS)
-- 💼 Portfolio - https://daniellios.github.io/my-site/
+- 💼 Portfolio - https://my-portfolio-blue-pi.vercel.app/
 - 📫 For any work or collaboration related inquiries write me here - danielo49134@gmail.com
 
 <!---
